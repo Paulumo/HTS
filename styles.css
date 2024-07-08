@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#logger button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#logList {
+    margin-top: 20px;
+}
+
+input[type="date"] {
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
